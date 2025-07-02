@@ -26,3 +26,4 @@ The goal of this project is to provide **personalized suggestions** using histor
 
 
 ## OUTPUT:
+https://github.com/user-attachments/assets/6d497af5-f074-44d7-ad36-61bb6e67a32e
